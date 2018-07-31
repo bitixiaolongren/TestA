@@ -13,6 +13,7 @@
 		long plen;
 	}Teacher;
 */
+///////hakjfdhaskjfhaskjfsa
 int encodeTeacher(Teacher * p, char ** outData, int * outlen)
 {
 	ITCAST_ANYBUF* ptemp = NULL;
